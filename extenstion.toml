@@ -1,0 +1,7 @@
+id = "Handmade"
+name = "Handmade Hero theme"
+authors = ["Casey Muratori, wthsydney <allimperfectlove@proton.me>""]
+version = "1.0.0"
+schema_version = 1
+description = "Port of the Handmade Hero theme for Zed"
+repository = "https://github.com/wthsydney/handmade-theme-zed"
